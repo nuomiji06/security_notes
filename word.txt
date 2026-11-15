@@ -1,0 +1,3 @@
+Python is easy to learn. Python is popular.
+I like Python and Java. Java is also popular.
+Python is fun.
